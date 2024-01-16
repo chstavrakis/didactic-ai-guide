@@ -1,0 +1,13 @@
+#################################
+
+
+1. Machine Learning by Andrew Ng on Coursera
+2. Deep Learning Specialization by Andrew Ng on Coursera
+3. Natural Language Processing (NLP) Specialization on Coursera
+4. Computer Vision Specialization on Coursera
+5. TensorFlow for Deep Learning on Udacity
+6. PyTorch Fundamentals on Udacity
+7. Mathematics for Machine Learning Specialization on Coursera
+8. AI for Everyone on Coursera
+9. Reinforcement Learning Specialization on Coursera
+10. AI Ethics and Society on Coursera
